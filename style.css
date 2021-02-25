@@ -1,0 +1,40 @@
+*{
+    font-family: roboto;
+
+}
+nav {
+    background-color: #595959;
+    color: rgb(255, 255, 255);
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0 ;
+
+    
+}
+nav a{
+    padding-right: 90px;
+    color:#1FD0C0;
+
+}
+h1, .home{
+text-align: center;
+}
+.home p{
+color:#1FD0C0;
+
+}
+h1{
+    background-color:#FF5736;
+     margin-left:400px;
+     margin-right:400px;
+}
+iframe{
+    margin-left:650px;
+}
+input{
+    display:block;
+    
+    }
+.color{
+    color:#ae22b1;
+}
